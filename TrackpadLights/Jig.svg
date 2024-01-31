@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 806.83317 520.70808"
+   width="806.83319"
+   height="520.70807"
+   version="1.1"
+   id="svg1260"
+   sodipodi:docname="Jig.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1262"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.74564396"
+     inkscape:cx="346.00964"
+     inkscape:cy="490.85089"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="262"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1258" />
+  <desc
+     id="desc2">Jig.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs16">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path4" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path7" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path11" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g1258"
+     transform="translate(24.845611,-567.44242)">
+    <path
+       d="m 484.43014,1063.218 a 13.440038,13.440038 0 0 1 -13.44,13.44"
+       style="fill:none;stroke:#000000"
+       id="path18" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 470.99035,1076.6581 H 77.390149"
+       id="path20" />
+    <path
+       d="m 77.390139,1076.658 a 13.439962,13.439962 0 0 1 -13.44,-13.44"
+       style="fill:none;stroke:#000000"
+       id="path22" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 63.950149,1063.2181 V 596.65612"
+       id="path24" />
+    <path
+       d="m 63.950129,596.65802 a 13.440004,13.440004 0 0 1 13.43997,-13.44"
+       style="fill:none;stroke:#000000"
+       id="path26" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 77.390149,583.21612 H 411.47035"
+       id="path28" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 411.47035,583.21612 h 59.52"
+       id="path30" />
+    <path
+       d="m 470.99014,583.21802 a 13.440004,13.440004 0 0 1 13.43996,13.4399"
+       style="fill:none;stroke:#000000"
+       id="path32" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 484.43035,596.65612 V 1063.2181"
+       id="path34" />
+    <path
+       d="m 83.437379,1063.218 a 6.047245,6.047245 0 0 1 -12.09449,0 6.047245,6.047245 0 0 1 12.09449,0 z"
+       style="fill:none;stroke:#000000"
+       id="path36" />
+    <path
+       d="m 477.03738,1063.218 a 6.047245,6.047245 0 0 1 -12.09449,0 6.047245,6.047245 0 0 1 12.09449,0 z"
+       style="fill:none;stroke:#000000"
+       id="path38" />
+    <path
+       d="m 83.437379,596.65802 a 6.047245,6.047245 0 0 1 -12.09449,0 6.047245,6.047245 0 0 1 12.09449,0 z"
+       style="fill:none;stroke:#000000"
+       id="path40" />
+    <path
+       d="m 477.03738,596.65802 a 6.047245,6.047245 0 0 1 -12.09449,0 6.047245,6.047245 0 0 1 12.09449,0 z"
+       style="fill:none;stroke:#000000"
+       id="path42" />
+    <path
+       d="m 590.04521,877.8637 a 6.047246,6.047246 0 0 1 -12.09449,0 6.047246,6.047246 0 0 1 12.09449,0 z"
+       style="fill:none;stroke:#000000"
+       id="path44" />
+    <path
+       d="m 590.04521,711.56442 a 6.047246,6.047246 0 0 1 -12.09449,0 6.047246,6.047246 0 0 1 12.09449,0 z"
+       style="fill:none;stroke:#000000"
+       id="path46" />
+    <path
+       d="m 756.34438,711.56442 a 6.047245,6.047245 0 0 1 -12.09449,0 6.047245,6.047245 0 0 1 12.09449,0 z"
+       style="fill:none;stroke:#000000"
+       id="path48" />
+    <path
+       d="m 756.34438,877.8637 a 6.047245,6.047245 0 0 1 -12.09449,0 6.047245,6.047245 0 0 1 12.09449,0 z"
+       style="fill:none;stroke:#000000"
+       id="path50" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 750.29735,889.2061 h -166.299"
+       id="path52" />
+    <path
+       d="M 583.99796,889.2022 A 11.338583,11.338583 0 0 1 572.65938,877.8637"
+       style="fill:none;stroke:#000000"
+       id="path54" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 572.65935,877.8661 V 711.56612"
+       id="path56" />
+    <path
+       d="m 572.65938,711.56442 a 11.338583,11.338583 0 0 1 11.33858,-11.3385"
+       style="fill:none;stroke:#000000"
+       id="path58" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 583.99835,700.22612 h 166.299"
+       id="path60" />
+    <path
+       d="m 750.29717,700.22592 a 11.338583,11.338583 0 0 1 11.33859,11.3385"
+       style="fill:none;stroke:#000000"
+       id="path62" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 761.63535,711.56612 V 877.8661"
+       id="path64" />
+    <path
+       d="m 761.63576,877.8637 a 11.338583,11.338583 0 0 1 -11.33859,11.3385"
+       style="fill:none;stroke:#000000"
+       id="path66" />
+    <path
+       d="M -24.345611,1059.3041 V 596.28892 A 28.346457,28.346457 0 0 1 4.0008394,567.94242 H 753.14113 a 28.346457,28.346457 0 0 1 28.34646,28.3464 V 1059.304 a 28.346457,28.346457 0 0 1 -28.34646,28.3465 H 4.0008494 a 28.346457,28.346457 0 0 1 -28.3464604,-28.3464 z"
+       style="fill:none;stroke:#000000"
+       id="path68" />
+    <path
+       d="m 9.6701294,596.28892 a 5.669291,5.669291 0 0 1 -11.33858,0 5.669291,5.669291 0 0 1 11.33858,0 z"
+       style="fill:none;stroke:#000000"
+       id="path78" />
+    <path
+       d="m 9.6701394,1059.3041 a 5.669295,5.669295 0 0 1 -11.33859,0 5.669295,5.669295 0 0 1 11.33859,0 z"
+       style="fill:none;stroke:#000000"
+       id="path80" />
+    <path
+       d="m 758.81042,1059.304 a 5.6692915,5.6692915 0 0 1 -11.33858,0 5.6692915,5.6692915 0 0 1 11.33858,0 z"
+       style="fill:none;stroke:#000000"
+       id="path82" />
+    <path
+       d="m 758.81042,596.28882 a 5.6692915,5.6692915 0 0 1 -11.33858,0 5.6692915,5.6692915 0 0 1 11.33858,0 z"
+       style="fill:none;stroke:#000000"
+       id="path84" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.8157px;fill:#280b0b;stroke-width:1.56798"
+       x="668.44342"
+       y="739.01923"
+       id="text4134"
+       transform="scale(0.90671711,1.1028798)"><tspan
+         sodipodi:role="line"
+         id="tspan4132"
+         x="668.44342"
+         y="739.01923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.7191px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.56798">Main</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.8157px;fill:#280b0b;stroke-width:1.56798"
+       x="158.68843"
+       y="772.02228"
+       id="text4134-8"
+       transform="scale(0.90671712,1.1028798)"><tspan
+         sodipodi:role="line"
+         id="tspan4132-6"
+         x="158.68843"
+         y="772.02228"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.7191px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.56798">Trackpad</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.8703px;fill:#280b0b;stroke-width:1.15586"
+       x="537.14697"
+       y="923.9259"
+       id="text4134-86"
+       transform="scale(0.93545002,1.0690042)"><tspan
+         sodipodi:role="line"
+         id="tspan4132-8"
+         x="537.14697"
+         y="923.9259"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.2343px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.15586">CapTouchJig</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.8703px;fill:#280b0b;stroke-width:1.15586"
+       x="537.56995"
+       y="972.83575"
+       id="text4134-86-8"
+       transform="scale(0.93545002,1.0690042)"><tspan
+         sodipodi:role="line"
+         id="tspan4132-8-0"
+         x="537.56995"
+         y="972.83575"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.2343px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.15586">Rev A</tspan></text>
+  </g>
+</svg>

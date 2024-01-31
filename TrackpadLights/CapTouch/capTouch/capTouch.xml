@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\AaronN\Desktop\Personal\PersonalProjects\TrackpadLights\CapTouch\capTouch\capTouch.kicad_sch</source>
+    <date>5/24/2022 9:38:04 PM</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>capTouch.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fcfa736-5029-488d-824c-dc4117d1807b</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="0.1uF" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3eb5d8c7-0e9e-41c1-9360-ff066d1bd799</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9018b4f-80cb-41ac-8ed5-570dff4ed58b</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="0.1uF" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf6aa49e-eae0-4df4-a4b7-b1adf035aa05</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="0.1uF" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6f61aca-01c7-436a-995e-b223b321283e</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbfad266-b9c6-404c-9985-697bef923c9d</tstamps>
+    </comp>
+    <comp ref="CN1">
+      <value>B8B-PH-K-S(LF)(SN)</value>
+      <footprint>Connector_JST:JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical</footprint>
+      <fields>
+        <field name="Manufacturer">JST Sales America Inc.</field>
+        <field name="Part Number">455-1710-ND</field>
+        <field name="Type">JST PH</field>
+      </fields>
+      <libsource lib="personal_connectors" part="B8B-PH-K-S(LF)(SN)" description="JST PH CONN HEADER VERT 8POS 2MM"/>
+      <property name="Manufacturer" value="JST Sales America Inc."/>
+      <property name="Part Number" value="455-1710-ND"/>
+      <property name="Type" value="JST PH"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc914391-6386-44b9-b521-33e5fa0a7def</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO7380</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>328f5153-a668-419e-bce8-98211751ba12</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO7380</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4088dedf-86c9-4413-beba-67d0044e9b78</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO7380</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31bf6108-7e6f-4bdc-bead-2206dccf2814</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_ISO7380</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ed96d3c-9566-46ff-944a-aed03a7abc5e</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>NCD0805R1</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12x1-e.pdf</datasheet>
+      <fields>
+        <field name="Color">Red</field>
+        <field name="Manufacturer">Personal</field>
+        <field name="Part Number">Personal</field>
+      </fields>
+      <libsource lib="personal_leds" part="NCD0805R1" description="JLCPCB LED RED DIFFUSED 0805 SMD"/>
+      <property name="Manufacturer" value="Personal"/>
+      <property name="Part Number" value="Personal"/>
+      <property name="Color" value="Red"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59724554-4a69-4f37-804e-48cf1cb23698</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BSS138BKW,115</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BSS138BKW.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Personal</field>
+        <field name="Part Number">Personal</field>
+      </fields>
+      <libsource lib="personal_fets" part="BSS138BKW,115" description="MOSFET N-CH 60V 320MA SOT323"/>
+      <property name="Manufacturer" value="Personal"/>
+      <property name="Part Number" value="Personal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5245d8d-78ba-4554-b9bf-fefb3737db0e</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25900</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT4K70CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="4.7k" description="RES 4.7K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT4K70CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8db13f08-77de-4cf6-bc8b-73af063c93e7</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25900</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT4K70CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="4.7k" description="RES 4.7K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT4K70CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d80bea5-7c75-4bf2-b060-17e786614ed8</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT1K00CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="1k" description="RES 1K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT1K00CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98677eaa-e486-4407-a75a-7c104abd6d46</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25076</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT100RCT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="100" description="RES 100 OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT100RCT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25076"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>155cb2d3-23aa-4eda-8280-66d6354b40f8</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8201a710-c431-43e0-af2a-130a1f656df0</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28a70633-2325-4b21-b13b-7eabfb587bc8</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2058fc0c-2d39-4fb0-b1b9-21907070e79e</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a37f815-09e9-4447-9c19-96ca05feb2a1</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>770a8bc0-770f-4403-8f7b-11ee39fa9e0e</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a75fa64-9594-48ec-9a69-e8eb6467d944</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2ddb3c3-a08e-494a-b6b4-c3f987b1bebe</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d91d5c8-55a3-4eee-b703-040f621702c2</tstamps>
+    </comp>
+    <comp ref="TP9">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f327b9a-c88e-4c74-b1d9-29d106cea0f0</tstamps>
+    </comp>
+    <comp ref="TP10">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>589d7b71-6f7b-4284-b190-4296dc35aed1</tstamps>
+    </comp>
+    <comp ref="TP11">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2ce43db-1845-4cba-a954-70dddb2cc7d4</tstamps>
+    </comp>
+    <comp ref="TP12">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb3390ab-fc02-4f79-9686-f8697ac46edc</tstamps>
+    </comp>
+    <comp ref="TP13">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d58d094c-0899-489a-9a15-130d1dfe2953</tstamps>
+    </comp>
+    <comp ref="TP14">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>826ed553-4bb3-4993-9a00-f372ab252435</tstamps>
+    </comp>
+    <comp ref="TP15">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a82ad87-2d9b-4471-bd67-687826a456d4</tstamps>
+    </comp>
+    <comp ref="TP16">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e163401-5d88-4fde-83e9-b0c99528a7d9</tstamps>
+    </comp>
+    <comp ref="TP17">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27456e29-4c81-4bda-97e8-24cbe914e069</tstamps>
+    </comp>
+    <comp ref="TP18">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>389d766c-f807-4eca-b999-e096914c0f49</tstamps>
+    </comp>
+    <comp ref="TP19">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>340092ed-07b8-41f8-9591-a4f885e4244a</tstamps>
+    </comp>
+    <comp ref="TP20">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6c9831f-503e-47dc-883f-c3e30883f0a4</tstamps>
+    </comp>
+    <comp ref="TP21">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea225290-c63e-4a9f-a1a6-c28adff9ceb4</tstamps>
+    </comp>
+    <comp ref="TP22">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a584cdec-b3eb-4003-84e5-f70d4e70c6f3</tstamps>
+    </comp>
+    <comp ref="TP23">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7eabe821-596e-4a63-9bf4-3c12a3db31ce</tstamps>
+    </comp>
+    <comp ref="TP24">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a1bc1de-43fa-4a4e-bef7-50e17270a63e</tstamps>
+    </comp>
+    <comp ref="TP25">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb6cfd4a-6e1f-43ea-98cd-5b0a6c9c61a5</tstamps>
+    </comp>
+    <comp ref="TP26">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6001d7e-9ae9-4157-b5b6-e86f90c3e4d8</tstamps>
+    </comp>
+    <comp ref="TP27">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ed94e76-1da5-45f4-b625-e96443184504</tstamps>
+    </comp>
+    <comp ref="TP28">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38066884-7c01-4aa0-9727-b69f7576ab72</tstamps>
+    </comp>
+    <comp ref="TP29">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8f26de8-6ced-494a-9105-95f0ab1de0a8</tstamps>
+    </comp>
+    <comp ref="TP30">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1292a969-8df6-451b-8d01-1d82e4734b36</tstamps>
+    </comp>
+    <comp ref="TP31">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb08c0bf-2259-4375-a015-73e06552944f</tstamps>
+    </comp>
+    <comp ref="TP32">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc2162dd-b66d-4ab9-b064-b61de19fd515</tstamps>
+    </comp>
+    <comp ref="TP33">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79b20bf0-f20f-49b8-a4db-6c83670b1c79</tstamps>
+    </comp>
+    <comp ref="TP34">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>446fa3c2-4445-4661-b5d5-aa997e85fd62</tstamps>
+    </comp>
+    <comp ref="TP35">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ae298b9-bb4c-423e-8018-2b6d6e89e491</tstamps>
+    </comp>
+    <comp ref="TP36">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>defffbae-03be-4695-b7e9-dbc1c5f1c90e</tstamps>
+    </comp>
+    <comp ref="TP37">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d40cc17-6934-4156-9402-40c9ac63bb6a</tstamps>
+    </comp>
+    <comp ref="TP38">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40986134-ed4b-4763-85e2-76c67b720b3b</tstamps>
+    </comp>
+    <comp ref="TP39">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8bf629c-3714-4f14-b9de-845f4c3624c4</tstamps>
+    </comp>
+    <comp ref="TP40">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cd6fe84-6c86-4084-a5bb-8d77719cc4d6</tstamps>
+    </comp>
+    <comp ref="TP41">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd1efc42-112f-4c7a-9730-84af6d49cdcb</tstamps>
+    </comp>
+    <comp ref="TP42">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e8c13d8-37b7-4596-8754-6b6d60123412</tstamps>
+    </comp>
+    <comp ref="TP43">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff9020a6-215d-49d8-9d2a-466ea537ed0a</tstamps>
+    </comp>
+    <comp ref="TP44">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03a801d4-f891-4c15-9449-1984f4739f2f</tstamps>
+    </comp>
+    <comp ref="TP45">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd9b3f9e-aa2d-458e-b5c0-9a453cd8041a</tstamps>
+    </comp>
+    <comp ref="TP46">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8af85972-f035-41c3-beab-4a79b2ab2ae4</tstamps>
+    </comp>
+    <comp ref="TP47">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcc145a2-ae03-404b-aa6b-e874c1a38871</tstamps>
+    </comp>
+    <comp ref="TP48">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0db50b6e-a46d-4d81-b6f1-05d21c2a90aa</tstamps>
+    </comp>
+    <comp ref="TP49">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8175dfd6-576f-4f73-9c2b-c3969508825e</tstamps>
+    </comp>
+    <comp ref="TP50">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Side</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e42c446b-5014-4c9e-bf11-68de4ce28cbe</tstamps>
+    </comp>
+    <comp ref="TP51">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a14508c-3a8f-4197-823b-b1792f918fd4</tstamps>
+    </comp>
+    <comp ref="TP52">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14271af7-5ebf-4741-9f49-22b055a138e5</tstamps>
+    </comp>
+    <comp ref="TP53">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15a0b962-5cda-43f2-a8a5-088b0f67ebfb</tstamps>
+    </comp>
+    <comp ref="TP54">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05f681be-1264-4c71-8b71-45a607b3195c</tstamps>
+    </comp>
+    <comp ref="TP55">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0357a4b8-eff1-4fdd-80ec-52e1f82d2d1d</tstamps>
+    </comp>
+    <comp ref="TP56">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a82d4399-d46e-40ca-a83e-a162273cd0ba</tstamps>
+    </comp>
+    <comp ref="TP57">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>610b64f8-8274-4a39-9f15-3c54b3228f58</tstamps>
+    </comp>
+    <comp ref="TP58">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ea498a5-edcd-4369-aa0b-70c312319b9c</tstamps>
+    </comp>
+    <comp ref="TP59">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbac7136-ce03-4a32-84f5-e5482e73ec33</tstamps>
+    </comp>
+    <comp ref="TP60">
+      <value>TestPoint</value>
+      <footprint>personal:IQS525-BL-QNR_Diamond</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcfb51d7-b714-40f7-a6ed-6818592aa2e8</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>IQS525-BL-QNR</value>
+      <footprint>Package_DFN_QFN:QFN-28_4x4mm_P0.5mm</footprint>
+      <datasheet>https://www.azoteq.com/images/stories/pdf/iqs5xx-b000_trackpad_datasheet.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Azoteq (Pty) Ltd</field>
+        <field name="Part Number">1790-1045-1-ND</field>
+      </fields>
+      <libsource lib="personal" part="IQS525-BL-QNR" description="25CH. TRACKPAD/TOUCH SCREEN CONT"/>
+      <property name="Manufacturer" value="Azoteq (Pty) Ltd"/>
+      <property name="Part Number" value="1790-1045-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="capTouch.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cc446dd-9018-476e-8fe2-440e32c7385f</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="personal" part="IQS525-BL-QNR">
+      <description>25CH. TRACKPAD/TOUCH SCREEN CONT</description>
+      <docs>https://www.azoteq.com/images/stories/pdf/iqs5xx-b000_trackpad_datasheet.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IQS525-BL-QNR</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-28_4x4mm_P0.5mm</field>
+        <field name="Datasheet">https://www.azoteq.com/images/stories/pdf/iqs5xx-b000_trackpad_datasheet.pdf</field>
+        <field name="Manufacturer">Azoteq (Pty) Ltd</field>
+        <field name="Part Number">1790-1045-1-ND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="SDA" type="unspecified"/>
+        <pin num="3" name="SCL" type="unspecified"/>
+        <pin num="4" name="VDDHI" type="unspecified"/>
+        <pin num="5" name="VSS" type="unspecified"/>
+        <pin num="6" name="VREG" type="unspecified"/>
+        <pin num="7" name="NRST" type="unspecified"/>
+        <pin num="8" name="RDY" type="unspecified"/>
+        <pin num="9" name="NC" type="no_connect"/>
+        <pin num="10" name="RX0" type="unspecified"/>
+        <pin num="11" name="RX1" type="unspecified"/>
+        <pin num="12" name="RX2" type="unspecified"/>
+        <pin num="13" name="RX3" type="unspecified"/>
+        <pin num="14" name="RX4" type="unspecified"/>
+        <pin num="15" name="RX5/TX4" type="unspecified"/>
+        <pin num="16" name="RX6/TX3" type="unspecified"/>
+        <pin num="17" name="RX7/TX2" type="unspecified"/>
+        <pin num="18" name="TX1" type="unspecified"/>
+        <pin num="19" name="TX0" type="unspecified"/>
+        <pin num="20" name="PD2" type="unspecified"/>
+        <pin num="21" name="PD3" type="unspecified"/>
+        <pin num="22" name="PD4" type="unspecified"/>
+        <pin num="23" name="PD5" type="unspecified"/>
+        <pin num="24" name="PD6" type="unspecified"/>
+        <pin num="25" name="PD7" type="unspecified"/>
+        <pin num="26" name="PB0" type="unspecified"/>
+        <pin num="27" name="PGM" type="unspecified"/>
+        <pin num="28" name="SW_IN" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_capacitors" part="0.1uF">
+      <description>CAP CER 0.1UF 25V X5R 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">0.1uF</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C307331</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_capacitors" part="2.2uF">
+      <description>CAP CER 2.2UF 10V X5R 0603</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">2.2uF</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C23630</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_connectors" part="B8B-PH-K-S(LF)(SN)">
+      <description>JST PH CONN HEADER VERT 8POS 2MM</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">B8B-PH-K-S(LF)(SN)</field>
+        <field name="Footprint">Connector_JST:JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">JST Sales America Inc.</field>
+        <field name="Part Number">455-1710-ND</field>
+        <field name="Type">JST PH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_fets" part="BSS138BKW,115">
+      <description>MOSFET N-CH 60V 320MA SOT323</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/BSS138BKW.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BSS138BKW,115</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-323_SC-70</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/BSS138BKW.pdf</field>
+        <field name="Manufacturer">Nexperia USA Inc.</field>
+        <field name="Part Number">1727-1262-1-ND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_leds" part="NCD0805R1">
+      <description>JLCPCB LED RED DIFFUSED 0805 SMD</description>
+      <docs>https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12x1-e.pdf</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">NCD0805R1</field>
+        <field name="Footprint">LED_SMD:LED_0805_2012Metric</field>
+        <field name="Datasheet">https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12x1-e.pdf</field>
+        <field name="Manufacturer">Foshan NationStar Optoelectronics</field>
+        <field name="Part Number">C84256</field>
+        <field name="Color">Red</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_resistors" part="100">
+      <description>RES 100 OHM 1% 1/16W 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">100</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT100RCT-ND</field>
+        <field name="Size">0402</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C25076</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_resistors" part="1k">
+      <description>RES 1K OHM 1% 1/16W 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">1k</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT1K00CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_resistors" part="4.7k">
+      <description>RES 4.7K OHM 1% 1/16W 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">4.7k</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT4K70CT-ND</field>
+        <field name="Size">0402</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C25900</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="personal">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal.kicad_sym</uri>
+    </library>
+    <library logical="personal_capacitors">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_capacitors.kicad_sym</uri>
+    </library>
+    <library logical="personal_connectors">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_connectors.kicad_sym</uri>
+    </library>
+    <library logical="personal_fets">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_fets.kicad_sym</uri>
+    </library>
+    <library logical="personal_leds">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_leds.kicad_sym</uri>
+    </library>
+    <library logical="personal_resistors">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_resistors.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="CN1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="VDDHI" pintype="unspecified"/>
+    </net>
+    <net code="2" name="/CAP_PGM">
+      <node ref="CN1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="PGM" pintype="unspecified"/>
+    </net>
+    <net code="3" name="/CAP_RDY">
+      <node ref="CN1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="RDY" pintype="unspecified"/>
+    </net>
+    <net code="4" name="/CAP_SWIN">
+      <node ref="CN1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="SW_IN" pintype="unspecified"/>
+    </net>
+    <net code="5" name="/CAP_nRST">
+      <node ref="CN1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="NRST" pintype="unspecified"/>
+    </net>
+    <net code="6" name="/I2C_SCL">
+      <node ref="CN1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="SCL" pintype="unspecified"/>
+    </net>
+    <net code="7" name="/I2C_SDA">
+      <node ref="CN1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="SDA" pintype="unspecified"/>
+    </net>
+    <net code="8" name="/RX0">
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP31" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP41" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP51" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="RX0" pintype="unspecified"/>
+    </net>
+    <net code="9" name="/RX1">
+      <node ref="TP12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP32" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP42" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP52" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="RX1" pintype="unspecified"/>
+    </net>
+    <net code="10" name="/RX2">
+      <node ref="TP13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP33" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP43" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP53" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="RX2" pintype="unspecified"/>
+    </net>
+    <net code="11" name="/RX3">
+      <node ref="TP14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP34" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP44" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP54" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="RX3" pintype="unspecified"/>
+    </net>
+    <net code="12" name="/RX4">
+      <node ref="TP15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP35" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP45" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP55" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="RX4" pintype="unspecified"/>
+    </net>
+    <net code="13" name="/TX0">
+      <node ref="TP16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP26" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP36" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP46" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP56" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="TX0" pintype="unspecified"/>
+    </net>
+    <net code="14" name="/TX1">
+      <node ref="TP17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP27" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP37" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP47" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP57" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="TX1" pintype="unspecified"/>
+    </net>
+    <net code="15" name="/TX2">
+      <node ref="TP18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP28" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP38" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP48" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP58" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="RX7/TX2" pintype="unspecified"/>
+    </net>
+    <net code="16" name="/TX3">
+      <node ref="TP19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP29" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP39" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP49" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP59" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="RX6/TX3" pintype="unspecified"/>
+    </net>
+    <net code="17" name="/TX4">
+      <node ref="TP10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP30" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP40" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP50" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP60" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="RX5/TX4" pintype="unspecified"/>
+    </net>
+    <net code="18" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="CN1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VSS" pintype="unspecified"/>
+    </net>
+    <net code="19" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VREG" pintype="unspecified"/>
+    </net>
+    <net code="20" name="Net-(LED1-Pad1)">
+      <node ref="LED1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(LED1-Pad2)">
+      <node ref="LED1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="PB0" pintype="unspecified"/>
+    </net>
+    <net code="24" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(U1-Pad20)">
+      <node ref="U1" pin="20" pinfunction="PD2" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(U1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="PD3" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(U1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="PD4" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(U1-Pad23)">
+      <node ref="U1" pin="23" pinfunction="PD5" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(U1-Pad24)">
+      <node ref="U1" pin="24" pinfunction="PD6" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U1-Pad25)">
+      <node ref="U1" pin="25" pinfunction="PD7" pintype="unspecified+no_connect"/>
+    </net>
+  </nets>
+</export>

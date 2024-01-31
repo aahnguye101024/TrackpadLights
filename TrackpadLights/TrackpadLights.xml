@@ -1,0 +1,3784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\AaronN\Desktop\Personal\PersonalProjects\TrackpadLights\TrackpadLights.kicad_sch</source>
+    <date>5/24/2022 8:09:30 PM</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>TrackpadLights.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="" part="0.1uF_1" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50d2e0dc-e601-4730-bbb1-aa44e33e285e</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="" part="0.1uF_1" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2578e98-dbb2-4455-aa73-c2faefee4b97</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="" part="0.1uF_1" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>738ca366-8290-47f4-b4d0-70e20d635bac</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLC Number">C15850</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-2893-1-ND</field>
+        <field name="Size">0805</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="10uF" description="CAP CER 10UF 16V X5R 0805"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-2893-1-ND"/>
+      <property name="Size" value="0805"/>
+      <property name="Voltage" value="16V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0e36b25-23bd-4aa1-99d4-31b9949637c7</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="" part="2.2uF_1" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe4122a7-32a6-489e-8988-72998731a2f6</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLC Number">C15850</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-2893-1-ND</field>
+        <field name="Size">0805</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="10uF" description="CAP CER 10UF 16V X5R 0805"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-2893-1-ND"/>
+      <property name="Size" value="0805"/>
+      <property name="Voltage" value="16V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1c7fdab-8bbb-46bd-b2ba-c5e698dd1dbe</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLC Number">C15850</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-2893-1-ND</field>
+        <field name="Size">0805</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="10uF" description="CAP CER 10UF 16V X5R 0805"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-2893-1-ND"/>
+      <property name="Size" value="0805"/>
+      <property name="Voltage" value="16V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>329fdbaf-dcd3-4449-be87-7336a4bdeeef</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="" part="2.2uF_1" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84bfb5ec-7757-443f-92c2-eb5692464378</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="" part="0.1uF_1" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1959736-8202-499a-a0dd-27c3df6c5b34</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLC Number">C15850</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-2893-1-ND</field>
+        <field name="Size">0805</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="10uF" description="CAP CER 10UF 16V X5R 0805"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-2893-1-ND"/>
+      <property name="Size" value="0805"/>
+      <property name="Voltage" value="16V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8c02350-f521-4edd-b9d8-85d8b5cb9ec2</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C52923</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="1uF" description="CAP CER 1UF 10V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1076-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c7a7ad4-a381-41d7-8070-a120d34b7ed7</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5aa9286e-1f5b-4a66-8248-04900e7033f6</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="" part="0.1uF_1" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abd66722-022b-43ca-a392-fb1c20867f62</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.01uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C15195</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">KYOCERA AVX</field>
+        <field name="Part Number">478-0402YD103KAT2ACT-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">16V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="0.01uF" description="CAP CER 10000PF 16V X5R 0402"/>
+      <property name="Manufacturer" value="KYOCERA AVX"/>
+      <property name="Part Number" value="478-0402YD103KAT2ACT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="16V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C15195"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a696a4f1-8810-437e-937d-3e6942c75b79</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="" part="0.1uF_1" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ae18d31-5b4c-4058-949e-f7624141ce6c</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="0.1uF" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23d24d4f-91fd-4923-980a-450feb62a946</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="" part="0.1uF_1" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b29a34f6-4658-47fb-83dd-83882fa9d6c8</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5823300-6b02-4e88-bc17-6f4c3d13538e</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db478544-8060-43ca-9476-dd90d3bbcf11</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="0.1uF" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>822f3262-e85b-4eee-ad38-bd8267590c95</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11d38456-0a53-43e3-ac05-4f7689b643bc</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="0.1uF" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51bf7a25-09cb-458d-97aa-3ccc536fdded</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>20pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C1554</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1661-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="20pF" description="CAP CER 20PF 50V C0G/NP0 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1661-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="50V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C1554"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18dee026-9999-4f10-8c36-736131349406</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>20pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C1554</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1661-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="" part="20pF_1" description="CAP CER 20PF 50V C0G/NP0 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1661-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="50V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C1554"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41524d81-a7f7-45af-a8c6-15609b68d1fd</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e1b5a45-63bc-4127-ac7c-8a24184ad6dd</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="0.1uF" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ceadf7b3-85ac-480e-88ed-834b3c455db8</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>725e914c-31dd-4c58-8328-aaed074e289c</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="0.1uF" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea01c854-4e71-4de3-943b-4898554e35e3</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f41a63c3-ca55-4c36-af95-14b1a9712538</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>007af7c7-de01-42b4-a3ef-9a5579041706</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C307331</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="0.1uF" description="CAP CER 0.1UF 25V X5R 0402"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1043-1-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Voltage" value="25V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C307331"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76604ec4-64e3-4b1a-a0d8-3255528a1625</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5720c57-7584-4184-a702-0861d3a29e5a</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="JLC Number">C23630</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+      </fields>
+      <libsource lib="personal_capacitors" part="2.2uF" description="CAP CER 2.2UF 10V X5R 0603"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="1276-1085-1-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="Voltage" value="10V"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23630"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eea54694-76c7-4fa7-bb86-ff9cc98b31cb</tstamps>
+    </comp>
+    <comp ref="CN1">
+      <value>2137160001</value>
+      <footprint>personal:2137160001</footprint>
+      <datasheet>https://www.molex.com/webdocs/datasheets/pdf/en-us/2137160001_IO_CONNECTORS.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Personal</field>
+        <field name="Part Number">Personal</field>
+      </fields>
+      <libsource lib="personal_connectors" part="2137160001" description="CONN RCPT USB2.0 TYPE C 24POS RA"/>
+      <property name="Manufacturer" value="Personal"/>
+      <property name="Part Number" value="Personal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8adb2a77-8724-4d9a-9b76-328dcb3f5088</tstamps>
+    </comp>
+    <comp ref="CN2">
+      <value>3220-14-0100-00</value>
+      <footprint>personal:3220-14-0100-00</footprint>
+      <fields>
+        <field name="Manufacturer">Personal</field>
+        <field name="Part Number">Personal</field>
+      </fields>
+      <libsource lib="personal_connectors" part="3220-14-0100-00" description="JTAG/SWD 14 Pin CONN HEADER VERT 14POS 1.27MM"/>
+      <property name="Manufacturer" value="Personal"/>
+      <property name="Part Number" value="Personal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66920536-cfa6-4181-96aa-841a8f3c2125</tstamps>
+    </comp>
+    <comp ref="CN3">
+      <value>B8B-PH-K-S(LF)(SN)</value>
+      <footprint>Connector_JST:JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical</footprint>
+      <fields>
+        <field name="Manufacturer">JST Sales America Inc.</field>
+        <field name="Part Number">455-1710-ND</field>
+        <field name="Type">JST PH</field>
+      </fields>
+      <libsource lib="personal_connectors" part="B8B-PH-K-S(LF)(SN)" description="JST PH CONN HEADER VERT 8POS 2MM"/>
+      <property name="Manufacturer" value="JST Sales America Inc."/>
+      <property name="Part Number" value="455-1710-ND"/>
+      <property name="Type" value="JST PH"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ca4456d-9e29-48da-aa86-b28b3623aedf</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>GZ2012D601TF</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811141711_Sunlord-GZ2012D601TF_C1017.pdf</datasheet>
+      <fields>
+        <field name="JLC Number">C1017</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">JLCPCB</field>
+        <field name="Part Number">C1017</field>
+      </fields>
+      <libsource lib="" part="GZ2012D601TF_1" description="JLCPCB 600Ω @ 100MHz 300mΩ 0805 Ferrite Beads ROHS"/>
+      <property name="Manufacturer" value="JLCPCB"/>
+      <property name="Part Number" value="C1017"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C1017"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6caaed6d-b73b-4404-b1b1-5ee512c8e33c</tstamps>
+    </comp>
+    <comp ref="FB2">
+      <value>GZ2012D601TF</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811141711_Sunlord-GZ2012D601TF_C1017.pdf</datasheet>
+      <fields>
+        <field name="JLC Number">C1017</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">JLCPCB</field>
+        <field name="Part Number">C1017</field>
+      </fields>
+      <libsource lib="personal_inductors" part="GZ2012D601TF" description="JLCPCB 600Ω @ 100MHz 300mΩ 0805 Ferrite Beads ROHS"/>
+      <property name="Manufacturer" value="JLCPCB"/>
+      <property name="Part Number" value="C1017"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C1017"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e488798d-e32d-4020-9cba-958250c5ad71</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>NCD0805R1</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12x1-e.pdf</datasheet>
+      <fields>
+        <field name="Color">Red</field>
+        <field name="Manufacturer">Foshan NationStar Optoelectronics</field>
+        <field name="Part Number">C84256</field>
+      </fields>
+      <libsource lib="personal_leds" part="NCD0805R1" description="JLCPCB LED RED DIFFUSED 0805 SMD"/>
+      <property name="Manufacturer" value="Foshan NationStar Optoelectronics"/>
+      <property name="Part Number" value="C84256"/>
+      <property name="Color" value="Red"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45e32617-e726-4beb-9713-9e158f4ea836</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>NCD0805R1</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12x1-e.pdf</datasheet>
+      <fields>
+        <field name="Color">Red</field>
+        <field name="Manufacturer">Foshan NationStar Optoelectronics</field>
+        <field name="Part Number">C84256</field>
+      </fields>
+      <libsource lib="personal_leds" part="NCD0805R1" description="JLCPCB LED RED DIFFUSED 0805 SMD"/>
+      <property name="Manufacturer" value="Foshan NationStar Optoelectronics"/>
+      <property name="Part Number" value="C84256"/>
+      <property name="Color" value="Red"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7dd9e432-35bb-4745-9e0e-9336722a1d64</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f724137-d984-4805-a8bd-03c2b2df74eb</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2290fdc-0328-4092-b02e-a4e856c6ea14</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>858ad8bb-6933-4ac1-b6f0-1331b613d4fa</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99456f47-9c5e-46cb-b8bc-ef4e3716a2df</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a65381b-2b4c-4360-ad57-e2c866c4c180</tstamps>
+    </comp>
+    <comp ref="LED8">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f131b482-24fb-4c9a-90c6-5c6ca0172bb0</tstamps>
+    </comp>
+    <comp ref="LED9">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c490c7e-bbca-422f-8b62-496fca420cd7</tstamps>
+    </comp>
+    <comp ref="LED10">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6459e063-191b-4577-b342-ca17ab5721be</tstamps>
+    </comp>
+    <comp ref="LED11">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1c0445d-73cd-4271-ac2d-09d9bac09e1d</tstamps>
+    </comp>
+    <comp ref="LED12">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>664b96d9-15f0-40c1-ab26-442270c27e01</tstamps>
+    </comp>
+    <comp ref="LED13">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0dea02b3-f062-4374-b660-107c693c27f4</tstamps>
+    </comp>
+    <comp ref="LED14">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5894d50d-3acc-4b24-b66f-553f682c59d6</tstamps>
+    </comp>
+    <comp ref="LED15">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43dd6a81-adee-46a9-ab58-97895afe88ec</tstamps>
+    </comp>
+    <comp ref="LED16">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddfbd5d0-cb94-4601-b84f-308119b75ae6</tstamps>
+    </comp>
+    <comp ref="LED17">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61d45309-f3a8-4b6d-a391-2ada83e30768</tstamps>
+    </comp>
+    <comp ref="LED18">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5a3561a-08da-445e-a4ef-53a0c24d64ff</tstamps>
+    </comp>
+    <comp ref="LED19">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b4e890e-7033-4a20-bcbe-f577355cf97e</tstamps>
+    </comp>
+    <comp ref="LED20">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c2122b2-5c35-4bf4-bf82-8daf686008c8</tstamps>
+    </comp>
+    <comp ref="LED21">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6be273c-8f74-4d80-a046-4830343e9427</tstamps>
+    </comp>
+    <comp ref="LED22">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f5fddfe-6e76-4e0d-bb0c-0b91a30fb642</tstamps>
+    </comp>
+    <comp ref="LED23">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fc79f7e-c5c6-484b-b6f4-68376d1403a4</tstamps>
+    </comp>
+    <comp ref="LED24">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb84d4a9-3f91-4259-accc-b9d1e9a2089a</tstamps>
+    </comp>
+    <comp ref="LED25">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43b09d17-f3f0-4736-bf95-91870510c135</tstamps>
+    </comp>
+    <comp ref="LED26">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3da47959-bda5-485a-85e6-bf445412b4b0</tstamps>
+    </comp>
+    <comp ref="LED27">
+      <value>19-213SUBC/S400-A5/S208-2/TR8</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Color">Blue</field>
+        <field name="JLC Number">C72041</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+      </fields>
+      <libsource lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8" description="LED BLUE CLEAR 2SMD"/>
+      <property name="Manufacturer" value="Everlight Electronics Co Ltd"/>
+      <property name="Part Number" value="1080-1581-1-ND"/>
+      <property name="Color" value="Blue"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C72041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a41c1020-7e5f-4fed-9e3b-6770f050a3ff</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810151612_Changjiang-Electronics-Tech--CJ-2N7002_C8545.pdf</datasheet>
+      <fields>
+        <field name="JLC Number">C8545</field>
+        <field name="JLC Part Number">C8545</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Changjiang Electronics Tech (CJ)</field>
+        <field name="Part Number">C8545</field>
+      </fields>
+      <libsource lib="personal_fets" part="2N7002" description="JLCPCB MOSFET N-CH 60V 115MA SOT-23"/>
+      <property name="Manufacturer" value="Changjiang Electronics Tech (CJ)"/>
+      <property name="Part Number" value="C8545"/>
+      <property name="JLC Part Number" value="C8545"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C8545"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6548ebad-95ae-4b2e-a8c6-0a57e3d78a55</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810151612_Changjiang-Electronics-Tech--CJ-2N7002_C8545.pdf</datasheet>
+      <fields>
+        <field name="JLC Number">C8545</field>
+        <field name="JLC Part Number">C8545</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Changjiang Electronics Tech (CJ)</field>
+        <field name="Part Number">C8545</field>
+      </fields>
+      <libsource lib="personal_fets" part="2N7002" description="JLCPCB MOSFET N-CH 60V 115MA SOT-23"/>
+      <property name="Manufacturer" value="Changjiang Electronics Tech (CJ)"/>
+      <property name="Part Number" value="C8545"/>
+      <property name="JLC Part Number" value="C8545"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C8545"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8df295a9-eddf-424d-a0a5-43b8740c2a06</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25900</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT4K70CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="4.7k" description="RES 4.7K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT4K70CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f997a36e-e51e-4a07-aca5-d306559a6347</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25076</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT100RCT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="100" description="RES 100 OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT100RCT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25076"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>066e1e3d-ffe2-470d-baf8-0ee8d3d7ee70</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25076</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT100RCT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="100" description="RES 100 OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT100RCT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25076"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2031c68c-e1b3-4ae2-8aee-a942409b9a67</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>5.1k_0603</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="ActualValue">5.1k</field>
+        <field name="JLC Number">C23186</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0603FT5K10CT-ND</field>
+        <field name="Size">0603</field>
+      </fields>
+      <libsource lib="personal_resistors" part="5.1k_0603" description="RES 5.1K OHM 1% 1/10W 0603"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0603FT5K10CT-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23186"/>
+      <property name="ActualValue" value="5.1k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7fa1deb-2e7a-405e-a86f-54351a9c6bbe</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25900</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT4K70CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="4.7k" description="RES 4.7K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT4K70CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5e69900-1a38-4283-ba42-c9c7a816e273</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>5.1k_0603</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="ActualValue">5.1k</field>
+        <field name="JLC Number">C23186</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0603FT5K10CT-ND</field>
+        <field name="Size">0603</field>
+      </fields>
+      <libsource lib="personal_resistors" part="5.1k_0603" description="RES 5.1K OHM 1% 1/10W 0603"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0603FT5K10CT-ND"/>
+      <property name="Size" value="0603"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23186"/>
+      <property name="ActualValue" value="5.1k"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6aaa78ad-77f0-492b-802c-373da5f38133</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C17168</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402ZT0R00CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="0" description="RES 0 OHM JUMPER 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402ZT0R00CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C17168"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcc029fe-a440-4b03-80e0-76e71b9ec234</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C17168</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402ZT0R00CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="0" description="RES 0 OHM JUMPER 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402ZT0R00CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C17168"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>825e6619-a13a-4c5c-b1cb-33ef8b0733c5</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25900</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT4K70CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="4.7k" description="RES 4.7K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT4K70CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4fd09ee-5508-4e4f-b08c-2e188c69ddf7</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25900</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT4K70CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="4.7k" description="RES 4.7K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT4K70CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cfdb589-b357-41bf-b971-8a88258d6d13</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25900</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT4K70CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="4.7k" description="RES 4.7K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT4K70CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36a5c181-cdac-4e98-b636-8b9dd1a7a499</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>33</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25105</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Part Number">311-33.0LRCT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="33" description="RES 33 OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Part Number" value="311-33.0LRCT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25105"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6593aa71-b282-42b3-a507-147e1bb13719</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>33</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25105</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Part Number">311-33.0LRCT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="33" description="RES 33 OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Part Number" value="311-33.0LRCT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25105"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbef100e-e666-4ae2-99e3-de1a8a78b9d8</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT10K0CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="10k" description="RES 10K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT10K0CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a56f04f-acd1-44d0-8d8e-dd06f74684e1</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>0.1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25334</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">CSR1206FTR100CT-ND</field>
+        <field name="Size">1206</field>
+      </fields>
+      <libsource lib="personal_resistors" part="0.1" description="RES 0.1 OHM 1% 1/2W 1206"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="CSR1206FTR100CT-ND"/>
+      <property name="Size" value="1206"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25334"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f0f9d9a-583e-4470-8843-301d12d82871</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>0.1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25334</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">CSR1206FTR100CT-ND</field>
+        <field name="Size">1206</field>
+      </fields>
+      <libsource lib="personal_resistors" part="0.1" description="RES 0.1 OHM 1% 1/2W 1206"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="CSR1206FTR100CT-ND"/>
+      <property name="Size" value="1206"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25334"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0e1bad4-7118-42ea-8df0-fcaf39397106</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C11702</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT1K00CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="" part="1k_1" description="RES 1K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT1K00CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C11702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>822638f3-8bf6-4f65-bc2e-bcc60e442009</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C17168</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402ZT0R00CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="0" description="RES 0 OHM JUMPER 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402ZT0R00CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C17168"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23c2ca10-4638-4555-a228-f6b58329d2fd</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C17168</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402ZT0R00CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="0" description="RES 0 OHM JUMPER 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402ZT0R00CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C17168"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77702d69-5cec-4b46-ba86-062b2c22a23f</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25744</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT10K0CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="" part="10k_1" description="RES 10K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT10K0CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67f9b3bf-6a58-46de-bd3f-889d20b5ab94</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25076</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT100RCT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="100" description="RES 100 OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT100RCT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25076"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>464b3d13-ccb5-4d80-9492-309e418b0c50</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25900</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT4K70CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="4.7k" description="RES 4.7K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT4K70CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d42383ee-52ee-4079-a25a-451e112c54b8</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT1K00CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="1k" description="RES 1K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT1K00CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5ca9e32-ff2e-455a-a075-62012fa78584</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25741</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Delta Electronics/Cyntec</field>
+        <field name="Part Number">2037-PFR05S-104-FNHCT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="100k" description="RES SMD 100 KOHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Delta Electronics/Cyntec"/>
+      <property name="Part Number" value="2037-PFR05S-104-FNHCT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25741"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc8f656a-ad22-4876-b349-79ddc6d0b670</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC Number">C25900</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT4K70CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="4.7k" description="RES 4.7K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT4K70CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a868989e-0edb-4a5e-8402-590e6860e606</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT1K00CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <libsource lib="personal_resistors" part="1k" description="RES 1K OHM 1% 1/16W 0402"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Part Number" value="RMCF0402FT1K00CT-ND"/>
+      <property name="Size" value="0402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>140428a0-304e-4868-8c03-32dfdd8dc801</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>FSM2JSMAA</value>
+      <footprint>personal:SW_2-1437565-8</footprint>
+      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=1371</datasheet>
+      <fields>
+        <field name="Manufacturer">Personal</field>
+        <field name="Part Number">Personal</field>
+      </fields>
+      <libsource lib="personal_switch" part="FSM2JSMAA" description="SMD Momentary PushButton"/>
+      <property name="Manufacturer" value="Personal"/>
+      <property name="Part Number" value="Personal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e35436bd-15bc-488b-b015-85409d1b45fc</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>FSM2JSMAA</value>
+      <footprint>personal:SW_2-1437565-8</footprint>
+      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=1371</datasheet>
+      <fields>
+        <field name="Manufacturer">Personal</field>
+        <field name="Part Number">Personal</field>
+      </fields>
+      <libsource lib="personal_switch" part="FSM2JSMAA" description="SMD Momentary PushButton"/>
+      <property name="Manufacturer" value="Personal"/>
+      <property name="Part Number" value="Personal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab46d6f8-db0b-4466-9139-1b35c0a395b3</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>FSM2JSMAA</value>
+      <footprint>personal:SW_2-1437565-8</footprint>
+      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=1371</datasheet>
+      <fields>
+        <field name="Manufacturer">Personal</field>
+        <field name="Part Number">Personal</field>
+      </fields>
+      <libsource lib="personal_switch" part="FSM2JSMAA" description="SMD Momentary PushButton"/>
+      <property name="Manufacturer" value="Personal"/>
+      <property name="Part Number" value="Personal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4693955b-956a-4dd7-975c-e94abb97c5b1</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>INA180B1IDBVT</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/ina180.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&amp;ts=1651904101355&amp;ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fina180</datasheet>
+      <fields>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Part Number">296-46631-1-ND</field>
+      </fields>
+      <libsource lib="personal_opamp" part="INA180B1IDBVT" description="IC CURR SENSE 1 CIRCUIT SOT23-5"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Part Number" value="296-46631-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd3124aa-ad8a-43ba-a96b-670a2756f213</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>STM32F030C8T6</value>
+      <footprint>Package_QFP:LQFP-48_7x7mm_P0.5mm</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf</datasheet>
+      <fields>
+        <field name="JLC Number">C23922</field>
+        <field name="JLCPCB">Yes</field>
+      </fields>
+      <libsource lib="personal_mcu" part="STM32F030C8T6" description="ARM Cortex-M0 MCU, 64KB flash, 8KB RAM, 48MHz, 2.4-3.6V, 39 GPIO, LQFP-48"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part Number" value=""/>
+      <property name="JLCPCB" value="Yes"/>
+      <property name="JLC Number" value="C23922"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7dc02738-2026-423c-a1ab-8ca246501d68</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>CP2102-GMR</value>
+      <footprint>personal:QFN28G_0.5-5X5MM</footprint>
+      <datasheet>https://www.silabs.com/documents/public/data-sheets/CP2102-9.pdf</datasheet>
+      <fields>
+        <field name="JLC Part Number">C6568</field>
+        <field name="Manufacturer">CP2102-GMR</field>
+        <field name="Part Number">IC USB-TO-UART BRIDGE 28VQFN</field>
+      </fields>
+      <libsource lib="personal" part="CP2102-GMR" description="JLCPCB IC USB-TO-UART BRIDGE 28VQFN"/>
+      <property name="Manufacturer" value="CP2102-GMR"/>
+      <property name="Part Number" value="IC USB-TO-UART BRIDGE 28VQFN"/>
+      <property name="JLC Part Number" value="C6568"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81d2ee11-627d-4ccc-8398-dc18bb2860f8</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>IS31FL3236A-TQLS4-TR</value>
+      <footprint>Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm</footprint>
+      <datasheet>https://www.lumissil.com/assets/pdf/core/IS31FL3236A_DS.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Lumissil Microsystems</field>
+        <field name="Part Number">2521-IS31FL3236A-TQLS4-TRCT-ND</field>
+      </fields>
+      <libsource lib="personal_leddriver" part="IS31FL3236A-TQLS4-TR" description="36-CHANNEL LED DRIVER, ETQFP-48"/>
+      <property name="Manufacturer" value="Lumissil Microsystems"/>
+      <property name="Part Number" value="2521-IS31FL3236A-TQLS4-TRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd8e9ffd-16b6-4203-996a-3e523a84c30f</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>MCP1826T-3302E_DC</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-6_TabPin3</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/en/DeviceDoc/22057B.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Microchip Technology</field>
+        <field name="Part Number">MCP1826T-3302E/DCCT-ND</field>
+      </fields>
+      <libsource lib="personal_ldo" part="MCP1826T-3302E_DC" description="IC REG LINEAR 3.3V 1A SOT223-5"/>
+      <property name="Manufacturer" value="Microchip Technology"/>
+      <property name="Part Number" value="MCP1826T-3302E/DCCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b96aefda-4a7b-4e45-b631-7c59f7f93cb1</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>ECS-80-18-33-JGN-TR</value>
+      <footprint>personal:XTAL_ECS-240-8-33-AGN-TR</footprint>
+      <fields>
+        <field name="Frequency">8Mhz</field>
+        <field name="Manufacturer">Personal</field>
+        <field name="Part Number">Personal</field>
+      </fields>
+      <libsource lib="personal_crystal" part="ECS-80-18-33-JGN-TR" description="CRYSTAL 8.0000MHZ 18PF SMD"/>
+      <property name="Manufacturer" value="Personal"/>
+      <property name="Part Number" value="Personal"/>
+      <property name="Frequency" value="8Mhz"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TrackpadLights.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e002a979-85bc-451a-a77b-29ce2a8f19f9</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="0.1uF_1">
+      <description>CAP CER 0.1UF 25V X5R 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">0.1uF_1</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C307331</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="10k_1">
+      <description>RES 10K OHM 1% 1/16W 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">10k_1</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT10K0CT-ND</field>
+        <field name="Size">0402</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C25744</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="1k_1">
+      <description>RES 1K OHM 1% 1/16W 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">1k_1</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT1K00CT-ND</field>
+        <field name="Size">0402</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C11702</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="2.2uF_1">
+      <description>CAP CER 2.2UF 10V X5R 0603</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">2.2uF_1</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C23630</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="20pF_1">
+      <description>CAP CER 20PF 50V C0G/NP0 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">20pF_1</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1661-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">50V</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C1554</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="GZ2012D601TF_1">
+      <description>JLCPCB 600Ω @ 100MHz 300mΩ 0805 Ferrite Beads ROHS</description>
+      <docs>https://datasheet.lcsc.com/lcsc/1811141711_Sunlord-GZ2012D601TF_C1017.pdf</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">GZ2012D601TF_1</field>
+        <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1811141711_Sunlord-GZ2012D601TF_C1017.pdf</field>
+        <field name="Manufacturer">JLCPCB</field>
+        <field name="Part Number">C1017</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C1017</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="personal" part="CP2102-GMR">
+      <description>JLCPCB IC USB-TO-UART BRIDGE 28VQFN</description>
+      <docs>https://www.silabs.com/documents/public/data-sheets/CP2102-9.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CP2102-GMR</field>
+        <field name="Footprint">personal:QFN28G_0.5-5X5MM</field>
+        <field name="Datasheet">https://www.silabs.com/documents/public/data-sheets/CP2102-9.pdf</field>
+        <field name="Manufacturer">CP2102-GMR</field>
+        <field name="Part Number">IC USB-TO-UART BRIDGE 28VQFN</field>
+        <field name="JLC Part Number">C6568</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DCD" type="bidirectional"/>
+        <pin num="2" name="RI" type="bidirectional"/>
+        <pin num="3" name="GND" type="bidirectional"/>
+        <pin num="4" name="D+" type="bidirectional"/>
+        <pin num="5" name="D-" type="bidirectional"/>
+        <pin num="6" name="VDD" type="bidirectional"/>
+        <pin num="7" name="REGIN" type="bidirectional"/>
+        <pin num="8" name="VBUS" type="bidirectional"/>
+        <pin num="9" name="~{RST}" type="bidirectional"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="~{SUSPEND}" type="bidirectional"/>
+        <pin num="12" name="SUSPEND" type="bidirectional"/>
+        <pin num="13" name="NC" type="no_connect"/>
+        <pin num="14" name="NC" type="no_connect"/>
+        <pin num="15" name="NC" type="no_connect"/>
+        <pin num="16" name="NC" type="no_connect"/>
+        <pin num="17" name="NC" type="no_connect"/>
+        <pin num="18" name="NC" type="no_connect"/>
+        <pin num="19" name="NC" type="no_connect"/>
+        <pin num="20" name="NC" type="no_connect"/>
+        <pin num="21" name="NC" type="no_connect"/>
+        <pin num="22" name="NC" type="no_connect"/>
+        <pin num="23" name="CTS" type="bidirectional"/>
+        <pin num="24" name="RTS" type="bidirectional"/>
+        <pin num="25" name="RXD" type="bidirectional"/>
+        <pin num="26" name="TXD" type="bidirectional"/>
+        <pin num="27" name="DSR" type="bidirectional"/>
+        <pin num="28" name="DTR" type="bidirectional"/>
+        <pin num="29" name="GND" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Footprint">personal:CurrentTestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_capacitors" part="0.01uF">
+      <description>CAP CER 10000PF 16V X5R 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">0.01uF</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">KYOCERA AVX</field>
+        <field name="Part Number">478-0402YD103KAT2ACT-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">16V</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C15195</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_capacitors" part="0.1uF">
+      <description>CAP CER 0.1UF 25V X5R 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">0.1uF</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1043-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">25V</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C307331</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_capacitors" part="10uF">
+      <description>CAP CER 10UF 16V X5R 0805</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">10uF</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-2893-1-ND</field>
+        <field name="Size">0805</field>
+        <field name="Voltage">16V</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C15850</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_capacitors" part="1uF">
+      <description>CAP CER 1UF 10V X5R 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">1uF</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1076-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">10V</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C52923</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_capacitors" part="2.2uF">
+      <description>CAP CER 2.2UF 10V X5R 0603</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">2.2uF</field>
+        <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1085-1-ND</field>
+        <field name="Size">0603</field>
+        <field name="Voltage">10V</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C23630</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_capacitors" part="20pF">
+      <description>CAP CER 20PF 50V C0G/NP0 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">20pF</field>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">1276-1661-1-ND</field>
+        <field name="Size">0402</field>
+        <field name="Voltage">50V</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C1554</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_connectors" part="2137160001">
+      <description>CONN RCPT USB2.0 TYPE C 24POS RA</description>
+      <docs>https://www.molex.com/webdocs/datasheets/pdf/en-us/2137160001_IO_CONNECTORS.pdf</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">2137160001</field>
+        <field name="Footprint">personal:2137160001</field>
+        <field name="Datasheet">https://www.molex.com/webdocs/datasheets/pdf/en-us/2137160001_IO_CONNECTORS.pdf</field>
+        <field name="Manufacturer">Molex</field>
+        <field name="Part Number">900-2137160001CT-ND</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_connectors" part="3220-14-0100-00">
+      <description>JTAG/SWD 14 Pin CONN HEADER VERT 14POS 1.27MM</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">3220-14-0100-00</field>
+        <field name="Footprint">personal:3220-14-0100-00</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">CNC Tech</field>
+        <field name="Part Number">1175-1630-ND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="NC" type="no_connect"/>
+        <pin num="3" name="VCC" type="unspecified"/>
+        <pin num="4" name="SWDIO" type="unspecified"/>
+        <pin num="5" name="GND" type="unspecified"/>
+        <pin num="6" name="SWCLK" type="unspecified"/>
+        <pin num="7" name="GND" type="unspecified"/>
+        <pin num="8" name="SWO" type="unspecified"/>
+        <pin num="9" name="NC" type="no_connect"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="GNDDet" type="unspecified"/>
+        <pin num="12" name="~{RST}" type="unspecified"/>
+        <pin num="13" name="RX" type="unspecified"/>
+        <pin num="14" name="TX" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_connectors" part="B8B-PH-K-S(LF)(SN)">
+      <description>JST PH CONN HEADER VERT 8POS 2MM</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">B8B-PH-K-S(LF)(SN)</field>
+        <field name="Footprint">Connector_JST:JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">JST Sales America Inc.</field>
+        <field name="Part Number">455-1710-ND</field>
+        <field name="Type">JST PH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_crystal" part="ECS-80-18-33-JGN-TR">
+      <description>CRYSTAL 8.0000MHZ 18PF SMD</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">ECS-80-18-33-JGN-TR</field>
+        <field name="Footprint">personal:XTAL_ECS-240-8-33-AGN-TR</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">ECS Inc.</field>
+        <field name="Part Number">50-ECS-80-18-33-JGN-CT-ND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_fets" part="2N7002">
+      <description>JLCPCB MOSFET N-CH 60V 115MA SOT-23</description>
+      <docs>https://datasheet.lcsc.com/lcsc/1810151612_Changjiang-Electronics-Tech--CJ-2N7002_C8545.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N7002</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1810151612_Changjiang-Electronics-Tech--CJ-2N7002_C8545.pdf</field>
+        <field name="Manufacturer">Changjiang Electronics Tech (CJ)</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C8545</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_inductors" part="GZ2012D601TF">
+      <description>JLCPCB 600Ω @ 100MHz 300mΩ 0805 Ferrite Beads ROHS</description>
+      <docs>https://datasheet.lcsc.com/lcsc/1811141711_Sunlord-GZ2012D601TF_C1017.pdf</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">GZ2012D601TF</field>
+        <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1811141711_Sunlord-GZ2012D601TF_C1017.pdf</field>
+        <field name="Manufacturer">JLCPCB</field>
+        <field name="Part Number">C1017</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C1017</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_ldo" part="MCP1826T-3302E_DC">
+      <description>IC REG LINEAR 3.3V 1A SOT223-5</description>
+      <docs>https://ww1.microchip.com/downloads/en/DeviceDoc/22057B.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP1826T-3302E_DC</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-6_TabPin3</field>
+        <field name="Datasheet">https://ww1.microchip.com/downloads/en/DeviceDoc/22057B.pdf</field>
+        <field name="Manufacturer">Microchip Technology</field>
+        <field name="Part Number">MCP1826T-3302E/DCCT-ND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{SHDN}" type="input"/>
+        <pin num="2" name="Vin" type="power_in"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="Vout" type="power_out"/>
+        <pin num="5" name="PWRGD" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_leddriver" part="IS31FL3236A-TQLS4-TR">
+      <description>36-CHANNEL LED DRIVER, ETQFP-48</description>
+      <docs>https://www.lumissil.com/assets/pdf/core/IS31FL3236A_DS.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IS31FL3236A-TQLS4-TR</field>
+        <field name="Footprint">Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm</field>
+        <field name="Datasheet">https://www.lumissil.com/assets/pdf/core/IS31FL3236A_DS.pdf</field>
+        <field name="Manufacturer">Lumissil Microsystems</field>
+        <field name="Part Number">2521-IS31FL3236A-TQLS4-TRCT-ND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT3" type="unspecified"/>
+        <pin num="2" name="OUT4" type="unspecified"/>
+        <pin num="3" name="OUT5" type="unspecified"/>
+        <pin num="4" name="GND" type="unspecified"/>
+        <pin num="5" name="OUT6" type="unspecified"/>
+        <pin num="6" name="OUT7" type="unspecified"/>
+        <pin num="7" name="OUT8" type="unspecified"/>
+        <pin num="8" name="OUT9" type="unspecified"/>
+        <pin num="9" name="OUT10" type="unspecified"/>
+        <pin num="10" name="OUT11" type="unspecified"/>
+        <pin num="11" name="OUT12" type="unspecified"/>
+        <pin num="12" name="OUT13" type="unspecified"/>
+        <pin num="13" name="OUT14" type="unspecified"/>
+        <pin num="14" name="OUT15" type="unspecified"/>
+        <pin num="15" name="OUT16" type="unspecified"/>
+        <pin num="16" name="OUT17" type="unspecified"/>
+        <pin num="17" name="OUT18" type="unspecified"/>
+        <pin num="18" name="GND" type="unspecified"/>
+        <pin num="19" name="GND" type="unspecified"/>
+        <pin num="20" name="OUT19" type="unspecified"/>
+        <pin num="21" name="OUT20" type="unspecified"/>
+        <pin num="22" name="OUT21" type="unspecified"/>
+        <pin num="23" name="OUT22" type="unspecified"/>
+        <pin num="24" name="OUT23" type="unspecified"/>
+        <pin num="25" name="OUT24" type="unspecified"/>
+        <pin num="26" name="OUT25" type="unspecified"/>
+        <pin num="27" name="OUT26" type="unspecified"/>
+        <pin num="28" name="OUT27" type="unspecified"/>
+        <pin num="29" name="OUT28" type="unspecified"/>
+        <pin num="30" name="OUT29" type="unspecified"/>
+        <pin num="31" name="OUT30" type="unspecified"/>
+        <pin num="32" name="OUT31" type="unspecified"/>
+        <pin num="33" name="GND" type="unspecified"/>
+        <pin num="34" name="OUT32" type="unspecified"/>
+        <pin num="35" name="OUT33" type="unspecified"/>
+        <pin num="36" name="OUT34" type="unspecified"/>
+        <pin num="37" name="OUT35" type="unspecified"/>
+        <pin num="38" name="OUT36" type="unspecified"/>
+        <pin num="39" name="SDB" type="unspecified"/>
+        <pin num="40" name="AD" type="unspecified"/>
+        <pin num="41" name="VCC" type="unspecified"/>
+        <pin num="42" name="GND" type="unspecified"/>
+        <pin num="43" name="GND" type="unspecified"/>
+        <pin num="44" name="R_EXT" type="unspecified"/>
+        <pin num="45" name="SDA" type="unspecified"/>
+        <pin num="46" name="SCL" type="unspecified"/>
+        <pin num="47" name="OUT1" type="unspecified"/>
+        <pin num="48" name="OUT2" type="unspecified"/>
+        <pin num="49" name="EPAD" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_leds" part="19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8">
+      <description>LED BLUE CLEAR 2SMD</description>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">19-213SUBC{slash}S400-A5{slash}S208-2{slash}TR8</field>
+        <field name="Footprint">LED_SMD:LED_0603_1608Metric</field>
+        <field name="Manufacturer">Everlight Electronics Co Ltd</field>
+        <field name="Part Number">1080-1581-1-ND</field>
+        <field name="Color">Blue</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C72041</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_leds" part="NCD0805R1">
+      <description>JLCPCB LED RED DIFFUSED 0805 SMD</description>
+      <docs>https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12x1-e.pdf</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">NCD0805R1</field>
+        <field name="Footprint">LED_SMD:LED_0805_2012Metric</field>
+        <field name="Datasheet">https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12x1-e.pdf</field>
+        <field name="Manufacturer">Foshan NationStar Optoelectronics</field>
+        <field name="Part Number">C84256</field>
+        <field name="Color">Red</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_mcu" part="STM32F030C8T6">
+      <description>ARM Cortex-M0 MCU, 64KB flash, 8KB RAM, 48MHz, 2.4-3.6V, 39 GPIO, LQFP-48</description>
+      <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf</docs>
+      <footprints>
+        <fp>LQFP*7x7mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F030C8T6</field>
+        <field name="Footprint">Package_QFP:LQFP-48_7x7mm_P0.5mm</field>
+        <field name="Datasheet">http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C23922</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="PC13" type="bidirectional"/>
+        <pin num="3" name="PC14" type="bidirectional"/>
+        <pin num="4" name="PC15" type="bidirectional"/>
+        <pin num="5" name="PF0" type="input"/>
+        <pin num="6" name="PF1" type="input"/>
+        <pin num="7" name="NRST" type="input"/>
+        <pin num="8" name="VSSA" type="power_in"/>
+        <pin num="9" name="VDDA" type="power_in"/>
+        <pin num="10" name="PA0" type="bidirectional"/>
+        <pin num="11" name="PA1" type="bidirectional"/>
+        <pin num="12" name="PA2" type="bidirectional"/>
+        <pin num="13" name="PA3" type="bidirectional"/>
+        <pin num="14" name="PA4" type="bidirectional"/>
+        <pin num="15" name="PA5" type="bidirectional"/>
+        <pin num="16" name="PA6" type="bidirectional"/>
+        <pin num="17" name="PA7" type="bidirectional"/>
+        <pin num="18" name="PB0" type="bidirectional"/>
+        <pin num="19" name="PB1" type="bidirectional"/>
+        <pin num="20" name="PB2" type="bidirectional"/>
+        <pin num="21" name="PB10" type="bidirectional"/>
+        <pin num="22" name="PB11" type="bidirectional"/>
+        <pin num="23" name="VSS" type="power_in"/>
+        <pin num="24" name="VDD" type="power_in"/>
+        <pin num="25" name="PB12" type="bidirectional"/>
+        <pin num="26" name="PB13" type="bidirectional"/>
+        <pin num="27" name="PB14" type="bidirectional"/>
+        <pin num="28" name="PB15" type="bidirectional"/>
+        <pin num="29" name="PA8" type="bidirectional"/>
+        <pin num="30" name="PA9" type="bidirectional"/>
+        <pin num="31" name="PA10" type="bidirectional"/>
+        <pin num="32" name="PA11" type="bidirectional"/>
+        <pin num="33" name="PA12" type="bidirectional"/>
+        <pin num="34" name="PA13" type="bidirectional"/>
+        <pin num="35" name="PF6" type="bidirectional"/>
+        <pin num="36" name="PF7" type="bidirectional"/>
+        <pin num="37" name="PA14" type="bidirectional"/>
+        <pin num="38" name="PA15" type="bidirectional"/>
+        <pin num="39" name="PB3" type="bidirectional"/>
+        <pin num="40" name="PB4" type="bidirectional"/>
+        <pin num="41" name="PB5" type="bidirectional"/>
+        <pin num="42" name="PB6" type="bidirectional"/>
+        <pin num="43" name="PB7" type="bidirectional"/>
+        <pin num="44" name="BOOT0" type="input"/>
+        <pin num="45" name="PB8" type="bidirectional"/>
+        <pin num="46" name="PB9" type="bidirectional"/>
+        <pin num="47" name="VSS" type="power_in"/>
+        <pin num="48" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_opamp" part="INA180B1IDBVT">
+      <description>IC CURR SENSE 1 CIRCUIT SOT23-5</description>
+      <docs>https://www.ti.com/lit/ds/symlink/ina180.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&amp;ts=1651904101355&amp;ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fina180</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">INA180B1IDBVT</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/ina180.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&amp;ts=1651904101355&amp;ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fina180</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Part Number">296-46631-1-ND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN+" type="unspecified"/>
+        <pin num="2" name="GND" type="unspecified"/>
+        <pin num="3" name="IN-" type="unspecified"/>
+        <pin num="4" name="OUT" type="unspecified"/>
+        <pin num="5" name="VS" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_resistors" part="0">
+      <description>RES 0 OHM JUMPER 1/16W 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">0</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402ZT0R00CT-ND</field>
+        <field name="Size">0402</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C17168</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_resistors" part="0.1">
+      <description>RES 0.1 OHM 1% 1/2W 1206</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">0.1</field>
+        <field name="Footprint">Resistor_SMD:R_1206_3216Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">CSR1206FTR100CT-ND</field>
+        <field name="Size">1206</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C25334</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_resistors" part="100">
+      <description>RES 100 OHM 1% 1/16W 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">100</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT100RCT-ND</field>
+        <field name="Size">0402</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C25076</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_resistors" part="100k">
+      <description>RES SMD 100 KOHM 1% 1/16W 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">100k</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Delta Electronics/Cyntec</field>
+        <field name="Part Number">2037-PFR05S-104-FNHCT-ND</field>
+        <field name="Size">0402</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C25741</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_resistors" part="10k">
+      <description>RES 10K OHM 1% 1/16W 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">10k</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT10K0CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_resistors" part="1k">
+      <description>RES 1K OHM 1% 1/16W 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">1k</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT1K00CT-ND</field>
+        <field name="Size">0402</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_resistors" part="33">
+      <description>RES 33 OHM 1% 1/16W 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">33</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">YAGEO</field>
+        <field name="Part Number">311-33.0LRCT-ND</field>
+        <field name="Size">0402</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C25105</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_resistors" part="4.7k">
+      <description>RES 4.7K OHM 1% 1/16W 0402</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">4.7k</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0402FT4K70CT-ND</field>
+        <field name="Size">0402</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C25900</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_resistors" part="5.1k_0603">
+      <description>RES 5.1K OHM 1% 1/10W 0603</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">5.1k_0603</field>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+        <field name="Part Number">RMCF0603FT5K10CT-ND</field>
+        <field name="Size">0603</field>
+        <field name="JLCPCB">Yes</field>
+        <field name="JLC Number">C23186</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="personal_switch" part="FSM2JSMAA">
+      <description>SMD Momentary PushButton</description>
+      <docs>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=1371</docs>
+      <footprints>
+        <fp>SW*MEC*5G*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">FSM2JSMAA</field>
+        <field name="Footprint">personal:SW_2-1437565-8</field>
+        <field name="Datasheet">http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=1371</field>
+        <field name="Manufacturer">FSM2JSMAA</field>
+        <field name="Part Number">450-3355-ND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+        <pin num="4" name="A" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="personal">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal.kicad_sym</uri>
+    </library>
+    <library logical="personal_capacitors">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_capacitors.kicad_sym</uri>
+    </library>
+    <library logical="personal_connectors">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_connectors.kicad_sym</uri>
+    </library>
+    <library logical="personal_crystal">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_crystal.kicad_sym</uri>
+    </library>
+    <library logical="personal_fets">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_fets.kicad_sym</uri>
+    </library>
+    <library logical="personal_inductors">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_inductors.kicad_sym</uri>
+    </library>
+    <library logical="personal_ldo">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_ldo.kicad_sym</uri>
+    </library>
+    <library logical="personal_leddriver">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_leddriver.kicad_sym</uri>
+    </library>
+    <library logical="personal_leds">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_leds.kicad_sym</uri>
+    </library>
+    <library logical="personal_mcu">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_mcu.kicad_sym</uri>
+    </library>
+    <library logical="personal_opamp">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_opamp.kicad_sym</uri>
+    </library>
+    <library logical="personal_resistors">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_resistors.kicad_sym</uri>
+    </library>
+    <library logical="personal_switch">
+      <uri>C:/Users/AaronN/Desktop/kicad personal lib/personal_switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="CN2" pin="3" pinfunction="VCC" pintype="unspecified"/>
+      <node ref="CN3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="24" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="48" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="41" pinfunction="VCC" pintype="unspecified"/>
+      <node ref="U5" pin="4" pinfunction="Vout" pintype="power_out"/>
+    </net>
+    <net code="2" name="/3V3A">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="3" name="/CAP_PGM">
+      <node ref="CN3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U2" pin="42" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/CAP_RDY">
+      <node ref="CN3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U2" pin="40" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/CAP_SWIN">
+      <node ref="CN3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U2" pin="41" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/CAP_nRST">
+      <node ref="CN3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="39" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/I2C_SCL">
+      <node ref="CN3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U4" pin="46" pinfunction="SCL" pintype="unspecified"/>
+    </net>
+    <net code="8" name="/I2C_SDA">
+      <node ref="CN3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U4" pin="45" pinfunction="SDA" pintype="unspecified"/>
+    </net>
+    <net code="9" name="/LED_OUT1">
+      <node ref="LED3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="47" pinfunction="OUT1" pintype="unspecified"/>
+    </net>
+    <net code="10" name="/LED_OUT2">
+      <node ref="LED4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="48" pinfunction="OUT2" pintype="unspecified"/>
+    </net>
+    <net code="11" name="/LED_OUT3">
+      <node ref="LED5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="OUT3" pintype="unspecified"/>
+    </net>
+    <net code="12" name="/LED_OUT4">
+      <node ref="LED6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="OUT4" pintype="unspecified"/>
+    </net>
+    <net code="13" name="/LED_OUT5">
+      <node ref="LED7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="OUT5" pintype="unspecified"/>
+    </net>
+    <net code="14" name="/LED_OUT6">
+      <node ref="LED8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="OUT6" pintype="unspecified"/>
+    </net>
+    <net code="15" name="/LED_OUT7">
+      <node ref="LED9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="OUT7" pintype="unspecified"/>
+    </net>
+    <net code="16" name="/LED_OUT8">
+      <node ref="LED10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="OUT8" pintype="unspecified"/>
+    </net>
+    <net code="17" name="/LED_OUT9">
+      <node ref="LED11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="OUT9" pintype="unspecified"/>
+    </net>
+    <net code="18" name="/LED_OUT10">
+      <node ref="LED12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="9" pinfunction="OUT10" pintype="unspecified"/>
+    </net>
+    <net code="19" name="/LED_OUT11">
+      <node ref="LED13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="OUT11" pintype="unspecified"/>
+    </net>
+    <net code="20" name="/LED_OUT12">
+      <node ref="LED14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="OUT12" pintype="unspecified"/>
+    </net>
+    <net code="21" name="/LED_OUT13">
+      <node ref="LED15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="OUT13" pintype="unspecified"/>
+    </net>
+    <net code="22" name="/LED_OUT14">
+      <node ref="LED16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="OUT14" pintype="unspecified"/>
+    </net>
+    <net code="23" name="/LED_OUT15">
+      <node ref="LED17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="OUT15" pintype="unspecified"/>
+    </net>
+    <net code="24" name="/LED_OUT16">
+      <node ref="LED18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="15" pinfunction="OUT16" pintype="unspecified"/>
+    </net>
+    <net code="25" name="/LED_OUT17">
+      <node ref="LED19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="16" pinfunction="OUT17" pintype="unspecified"/>
+    </net>
+    <net code="26" name="/LED_OUT18">
+      <node ref="LED20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="17" pinfunction="OUT18" pintype="unspecified"/>
+    </net>
+    <net code="27" name="/LED_OUT19">
+      <node ref="LED21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="20" pinfunction="OUT19" pintype="unspecified"/>
+    </net>
+    <net code="28" name="/LED_OUT20">
+      <node ref="LED22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="21" pinfunction="OUT20" pintype="unspecified"/>
+    </net>
+    <net code="29" name="/LED_OUT21">
+      <node ref="LED23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="22" pinfunction="OUT21" pintype="unspecified"/>
+    </net>
+    <net code="30" name="/LED_OUT22">
+      <node ref="LED24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="23" pinfunction="OUT22" pintype="unspecified"/>
+    </net>
+    <net code="31" name="/LED_OUT23">
+      <node ref="LED25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="24" pinfunction="OUT23" pintype="unspecified"/>
+    </net>
+    <net code="32" name="/LED_OUT24">
+      <node ref="LED26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="25" pinfunction="OUT24" pintype="unspecified"/>
+    </net>
+    <net code="33" name="/LED_OUT25">
+      <node ref="LED27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="26" pinfunction="OUT25" pintype="unspecified"/>
+    </net>
+    <net code="34" name="/LED_nSHUT">
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="U2" pin="26" pinfunction="PB13" pintype="bidirectional"/>
+      <node ref="U4" pin="39" pinfunction="SDB" pintype="unspecified"/>
+    </net>
+    <net code="35" name="/SENS_V">
+      <node ref="U1" pin="4" pinfunction="OUT" pintype="unspecified"/>
+      <node ref="U2" pin="10" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/STM_RX">
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/STM_SCL">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U2" pin="21" pinfunction="PB10" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="/STM_SDA">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U2" pin="22" pinfunction="PB11" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="/STM_TX">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="/SWCLK">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="37" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="/SWDIO">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="34" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="/TEST_LED">
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U2" pin="32" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="/UART_RX">
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U3" pin="25" pinfunction="RXD" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="/UART_TX">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U3" pin="26" pinfunction="TXD" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="/UI_BT1">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="SW2" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="/UI_BT2">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="SW3" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="SW3" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="/USB1_N">
+      <node ref="CN1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="CN1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="/USB1_P">
+      <node ref="CN1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="CN1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="/USB_N">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="/USB_P">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="/nRST">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="CN2" pin="12" pinfunction="~{RST}" pintype="unspecified"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="SW1" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="52" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="CN1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="CN1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="CN1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="CN1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="CN1" pin="S" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="CN2" pin="11" pinfunction="GNDDet" pintype="unspecified"/>
+      <node ref="CN2" pin="5" pinfunction="GND" pintype="unspecified"/>
+      <node ref="CN2" pin="7" pinfunction="GND" pintype="unspecified"/>
+      <node ref="CN3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="FB2" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U2" pin="23" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="47" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="29" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U4" pin="18" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U4" pin="19" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U4" pin="33" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U4" pin="4" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U4" pin="40" pinfunction="AD" pintype="unspecified"/>
+      <node ref="U4" pin="42" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U4" pin="43" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U4" pin="49" pinfunction="EPAD" pintype="unspecified"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="53" name="GNDA">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="FB2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="VSSA" pintype="power_in"/>
+    </net>
+    <net code="54" name="Net-(C18-Pad1)">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="VDD" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="Net-(C23-Pad1)">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="PF0" pintype="input"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(C24-Pad1)">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(CN1-PadA5)">
+      <node ref="CN1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(CN1-PadB5)">
+      <node ref="CN1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(CN2-Pad4)">
+      <node ref="CN2" pin="4" pinfunction="SWDIO" pintype="unspecified"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(CN2-Pad6)">
+      <node ref="CN2" pin="6" pinfunction="SWCLK" pintype="unspecified"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(LED1-Pad1)">
+      <node ref="LED1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(LED1-Pad2)">
+      <node ref="LED1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(LED2-Pad1)">
+      <node ref="LED2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(LED2-Pad2)">
+      <node ref="LED2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="PWRGD" pintype="output"/>
+    </net>
+    <net code="67" name="Net-(R14-Pad1)">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U2" pin="44" pinfunction="BOOT0" pintype="input"/>
+    </net>
+    <net code="68" name="Net-(R15-Pad2)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(R17-Pad1)">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="PF1" pintype="input"/>
+    </net>
+    <net code="70" name="Net-(R20-Pad2)">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="~{RST}" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="Net-(R25-Pad2)">
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="U4" pin="44" pinfunction="R_EXT" pintype="unspecified"/>
+    </net>
+    <net code="72" name="VBUS">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="LED10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LED9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="IN-" pintype="unspecified"/>
+      <node ref="U3" pin="7" pinfunction="REGIN" pintype="bidirectional"/>
+      <node ref="U3" pin="8" pinfunction="VBUS" pintype="bidirectional"/>
+      <node ref="U5" pin="1" pinfunction="~{SHDN}" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="Vin" pintype="power_in"/>
+    </net>
+    <net code="73" name="VDD">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="CN1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="CN1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="CN1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="CN1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IN+" pintype="unspecified"/>
+      <node ref="U1" pin="5" pinfunction="VS" pintype="unspecified"/>
+    </net>
+    <net code="74" name="unconnected-(CN1-PadA8)">
+      <node ref="CN1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(CN1-PadB8)">
+      <node ref="CN1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(CN2-Pad1)">
+      <node ref="CN2" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(CN2-Pad2)">
+      <node ref="CN2" pin="2" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(CN2-Pad8)">
+      <node ref="CN2" pin="8" pinfunction="SWO" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(CN2-Pad9)">
+      <node ref="CN2" pin="9" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(CN2-Pad10)">
+      <node ref="CN2" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(CN2-Pad13)">
+      <node ref="CN2" pin="13" pinfunction="RX" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(CN2-Pad14)">
+      <node ref="CN2" pin="14" pinfunction="TX" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="PC13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="PC14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="PC15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(U2-Pad11)">
+      <node ref="U2" pin="11" pinfunction="PA1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U2-Pad14)">
+      <node ref="U2" pin="14" pinfunction="PA4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(U2-Pad15)">
+      <node ref="U2" pin="15" pinfunction="PA5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(U2-Pad16)">
+      <node ref="U2" pin="16" pinfunction="PA6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(U2-Pad17)">
+      <node ref="U2" pin="17" pinfunction="PA7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(U2-Pad20)">
+      <node ref="U2" pin="20" pinfunction="PB2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(U2-Pad25)">
+      <node ref="U2" pin="25" pinfunction="PB12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(U2-Pad27)">
+      <node ref="U2" pin="27" pinfunction="PB14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(U2-Pad28)">
+      <node ref="U2" pin="28" pinfunction="PB15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(U2-Pad29)">
+      <node ref="U2" pin="29" pinfunction="PA8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(U2-Pad30)">
+      <node ref="U2" pin="30" pinfunction="PA9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(U2-Pad31)">
+      <node ref="U2" pin="31" pinfunction="PA10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U2-Pad33)">
+      <node ref="U2" pin="33" pinfunction="PA12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(U2-Pad35)">
+      <node ref="U2" pin="35" pinfunction="PF6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(U2-Pad36)">
+      <node ref="U2" pin="36" pinfunction="PF7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(U2-Pad38)">
+      <node ref="U2" pin="38" pinfunction="PA15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(U2-Pad43)">
+      <node ref="U2" pin="43" pinfunction="PB7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(U2-Pad45)">
+      <node ref="U2" pin="45" pinfunction="PB8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(U2-Pad46)">
+      <node ref="U2" pin="46" pinfunction="PB9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(U3-Pad1)">
+      <node ref="U3" pin="1" pinfunction="DCD" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(U3-Pad2)">
+      <node ref="U3" pin="2" pinfunction="RI" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(U3-Pad10)">
+      <node ref="U3" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(U3-Pad11)">
+      <node ref="U3" pin="11" pinfunction="~{SUSPEND}" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(U3-Pad12)">
+      <node ref="U3" pin="12" pinfunction="SUSPEND" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(U3-Pad13)">
+      <node ref="U3" pin="13" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(U3-Pad14)">
+      <node ref="U3" pin="14" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(U3-Pad15)">
+      <node ref="U3" pin="15" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(U3-Pad16)">
+      <node ref="U3" pin="16" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(U3-Pad17)">
+      <node ref="U3" pin="17" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(U3-Pad18)">
+      <node ref="U3" pin="18" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(U3-Pad19)">
+      <node ref="U3" pin="19" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(U3-Pad20)">
+      <node ref="U3" pin="20" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(U3-Pad21)">
+      <node ref="U3" pin="21" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(U3-Pad22)">
+      <node ref="U3" pin="22" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(U3-Pad23)">
+      <node ref="U3" pin="23" pinfunction="CTS" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(U3-Pad24)">
+      <node ref="U3" pin="24" pinfunction="RTS" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(U3-Pad27)">
+      <node ref="U3" pin="27" pinfunction="DSR" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(U3-Pad28)">
+      <node ref="U3" pin="28" pinfunction="DTR" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(U4-Pad27)">
+      <node ref="U4" pin="27" pinfunction="OUT26" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(U4-Pad28)">
+      <node ref="U4" pin="28" pinfunction="OUT27" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(U4-Pad29)">
+      <node ref="U4" pin="29" pinfunction="OUT28" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(U4-Pad30)">
+      <node ref="U4" pin="30" pinfunction="OUT29" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(U4-Pad31)">
+      <node ref="U4" pin="31" pinfunction="OUT30" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(U4-Pad32)">
+      <node ref="U4" pin="32" pinfunction="OUT31" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(U4-Pad34)">
+      <node ref="U4" pin="34" pinfunction="OUT32" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(U4-Pad35)">
+      <node ref="U4" pin="35" pinfunction="OUT33" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(U4-Pad36)">
+      <node ref="U4" pin="36" pinfunction="OUT34" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(U4-Pad37)">
+      <node ref="U4" pin="37" pinfunction="OUT35" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(U4-Pad38)">
+      <node ref="U4" pin="38" pinfunction="OUT36" pintype="unspecified+no_connect"/>
+    </net>
+  </nets>
+</export>
